@@ -85,16 +85,34 @@ plt.show()
 
 # OUTPUT:
 ![image](https://user-images.githubusercontent.com/121166004/233825869-970c641e-7b7f-45d3-975d-c77295edc919.png)
+
 ![image](https://user-images.githubusercontent.com/121166004/233825880-bc6416a5-c39d-4dc5-bc0e-00be7db6a4a1.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233825887-b1df10d5-40c6-4c54-8a4a-679da64a85c6.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826335-4dc57552-ba17-4b21-bc95-fb0d67990eda.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826394-a54ac321-e550-468a-ad8b-b933e43f7460.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826424-7f2e69b3-f1e3-40c5-8b2e-9309407c1f08.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826435-bda9402e-c8b4-4059-bef9-46a6d24e50ad.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826468-b73692bd-9806-4bcf-b975-653b90d91e28.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826476-4fd7f84f-456a-4ebe-bb6e-8fae60b9cc3c.png)
+
+
 ![image](https://user-images.githubusercontent.com/121166004/233826486-e14bcc77-767b-4a03-8206-02d5c676df96.png)
-RESULT:
+
+# RESULT:
 Thus feature transformation is done for the given dataset.
 
 
